@@ -20,4 +20,4 @@ Thanks to all the [contributors](https://github.com/longshilin/awesome-unity-dot
 
 
 # Projects
-* [UnityDOTS-Thesis](https://github.com/mikyll/UnityDOTS-Thesis) - Bachelor's degree thesis on Unity DOTS architecture.
+* [UnityDOTS-Thesis](https://github.com/mikyll/UnityDOTS-Thesis) - Bachelor's degree thesis on Unity DOTS architecture. ![](https://img.shields.io/github/stars/mikyll/UnityDOTS-Thesis)
