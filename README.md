@@ -1,3 +1,9 @@
+<div align="right">
+  Language:
+  🇺🇸
+  <a title="Chinese" href="README-CN.md">🇨🇳</a>
+</div>
+
 Awesome Unity Dots
 =============
 
