@@ -12,10 +12,3 @@ Awesome Unity Dots
 一直欢迎建议和贡献！在提交拉取请求之前，请务必阅读[贡献指南](https://github.com/longshilin/awesome-unity-dots/blob/master/CONTRIBUTING.md)以获取更多信息。
 
 感谢所有的[贡献者](https://github.com/longshilin/awesome-unity-dots/graphs/contributors)，没有你们就不可能做到这一点！
-
-- [Awesome Unity Dots](#awesome-unity-dots)
-  - [Projects](#projects)
-
-
-# Projects
-* [UnityDOTS-Thesis](https://github.com/mikyll/UnityDOTS-Thesis) - Unity DOTS 架构的学士学位论文。
