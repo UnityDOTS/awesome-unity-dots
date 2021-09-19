@@ -20,7 +20,7 @@ Thanks to all the [contributors](https://github.com/longshilin/awesome-unity-dot
     - [DOTS Articles and Links](#dots-articles-and-links)
     - [Additional Data Oriented Design Research](#additional-data-oriented-design-research)
     - [Projects](#projects)
-    - [Unity Assets](#unityassets)
+    - [Unity Assets](#unity-assets)
 
 ## Videos
 
